@@ -1,8 +1,10 @@
 AUTHOR = 'Fedor Petuchov'
 SITENAME = 'FedorPetuchovResume'
 
+SITEURL = ""
+RELATIVE_URLS = True
+
 PATH = "content"
-PAGE_PATHS = ['pages']
 
 
 TIMEZONE = 'Europe/Moscow'
