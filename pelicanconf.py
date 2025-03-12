@@ -1,6 +1,5 @@
 AUTHOR = 'Fedor Petuchov'
 SITENAME = 'FedorPetuchovResume'
-SITEURL = "https://username.github.io"
 
 PATH = "content"
 PAGE_PATHS = ['pages']
